@@ -1,6 +1,8 @@
 # Data-Sets
 List of Data Sets
 
+## LA County Open Data
+* https://data.lacounty.gov/
 ## World Bank
 * https://datacatalog.worldbank.org/
 
