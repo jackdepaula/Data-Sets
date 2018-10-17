@@ -3,6 +3,10 @@ List of Data Sets
 
 ## LA County Open Data
 * https://data.lacounty.gov/
+
+## California State Board of Equalization
+* https://www.boe.ca.gov/dataportal/
+
 ## World Bank
 * https://datacatalog.worldbank.org/
 
