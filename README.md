@@ -1,6 +1,9 @@
 # Data-Sets
 List of Data Sets
 
+## City of Los Angeles Open Data
+* https://data.lacity.org/
+
 ## LA County Open Data
 * https://data.lacounty.gov/
 
