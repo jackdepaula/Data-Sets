@@ -10,7 +10,7 @@ List of Data Sets
 ## California State Board of Equalization
 * https://www.boe.ca.gov/dataportal/
 
-## Data USA
+## Data USA - M.I.T. Media Lab
 * https://datausa.io/
 
 ## World Bank
