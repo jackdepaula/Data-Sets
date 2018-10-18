@@ -10,6 +10,9 @@ List of Data Sets
 ## California State Board of Equalization
 * https://www.boe.ca.gov/dataportal/
 
+## Data USA
+* https://datausa.io/
+
 ## World Bank
 * https://datacatalog.worldbank.org/
 
