@@ -4,7 +4,7 @@ List of Data Sets
 ## FRED - Federal Reserve
 * https://fred.stlouisfed.org/
 
-## City of Los Angeles Open Data
+## City of Los Angeles Open Data  
 * https://data.lacity.org/
 
 ## LA County Open Data
